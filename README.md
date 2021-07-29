@@ -5,6 +5,6 @@ It consume too much time when using ArcGis to extract soil attributrs from HWSD.
 ALL the data are provied by http://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/harmonized-world-soil-database-v12/en/
 
 For the files provied by this repository
-hwsd_tif.tif:  is converted by HWSD.BIL
+hwsd_tif.tif:  is converted by HWSD.BIL you can download by link：https://pan.baidu.com/s/1EvJyf5J-vZ2wLzLYPWAxKw Fetch Code：t1zr
 HWSD_DATA_reset.xls:  “one to one” relation between the GRID value and the database attribute MU_GLOBAL
 hwsd_attribute.m: convert hwsd_tif.tif to one attribute tif file.
